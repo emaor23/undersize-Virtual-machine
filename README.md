@@ -4,7 +4,6 @@
 
 VMware vRealize Operation 7.X or 8.X
 
-```
 This dashboard was created in vROps 7.0
  
 Dashboard that show you summary of Undersize Virtual machine with CPU and Memory.
