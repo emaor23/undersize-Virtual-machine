@@ -17,5 +17,3 @@ Views -> Import -> "Operations Performance VMs CPU Undersize.zip"
 ## Authors
 
 * **Eran Maor** - *Initial work* - [PurpleBooth](https://github.com/emaor23)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
